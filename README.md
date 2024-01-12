@@ -34,6 +34,8 @@ However, I'm also 'good' at these programming languages.
 
 <img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
+<img src="exs.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language))
+
 <img src="js.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 <img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
