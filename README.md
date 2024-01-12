@@ -13,7 +13,7 @@ My socials (also on my website):
 
 <img src="tt2.png" alt="Twitter logo" width="20.5" height="20.5">&nbsp;&nbsp;[@mickey2449](https://twitter.com/mickey2449)
 
-<img src="rdt.png" alt="Reddit logo" width="20.5" height="20.5">&nbsp;&nbsp;[u/mickoissicko](https://www.reddit.com/user/mickoissicko)
+<img src="rdt.png" alt="Reddit logo" width="14.5" height="14.5">&nbsp;&nbsp;[u/mickoissicko](https://www.reddit.com/user/mickoissicko)
 
 [oliversvensson](https://open.spotify.com/user/31hktpmjuod3bxq7ixg7vat5tuci)
 
