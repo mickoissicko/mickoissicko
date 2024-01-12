@@ -1,4 +1,4 @@
-# `$ whoami`
+# `whoami`
 
 Cool guy who likes programming oddly specific QoL stuff. I think Github is a cool place to share my projects, even though nobody is going to use them.
 I'm currently working on a (grey-area) cheat for Minecraft -- the Pingspoofer, and am also maintaining the USSR project.
@@ -23,7 +23,7 @@ Most of my socials (steam, twitch, and spotify is most likely not on my website)
 
 <img src="ttv.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mickyy_o1](https://www.twitch.tv/mickyy_o1)
 
-## areas of expertise
+# `languages`
 I'm pretty good with networking and software -- that's why I programmed the USSR, to help run my Minecraft Server panel 24/7 using Flask.
 
 However, I'm also 'good' at these programming languages.
@@ -40,7 +40,7 @@ However, I'm also 'good' at these programming languages.
 
 <img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
-## my repositories
+# `repositories`
 [USSR](https://github.com/mickoissicko/ussr)
 
 [Blink](https://github.com/mickoissicko/blink)
@@ -51,7 +51,7 @@ However, I'm also 'good' at these programming languages.
 
 [My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
 
-## projects I'm working on
+## `projects I'm working on`
 
 I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
 
