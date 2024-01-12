@@ -7,7 +7,7 @@ A website is in the works as well, and I'm planning to purchase a domain for it;
 
 My socials (also on my website):
 
-<img src="yt.png" alt="YouTube Logo" width="15" height="15">[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
+<img src="yt.png" alt="YouTube Logo" width="13" height="13">[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
 [BoF](https://www.youtube.com/channel/UCP1xnLQD_mpxSGc57UnZTyg)
 
