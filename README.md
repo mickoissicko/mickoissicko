@@ -11,11 +11,9 @@ My socials (also on my website):
 
 <img src="yt.png" alt="YouTube Logo2" width="14.5" height="14.5">&nbsp;&nbsp;[Bunch of Friends](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
-<img src="tt2.png" alt="Twitter logo" width="20.5" height="20.5">&nbsp;&nbsp;[@mickey2449](https://twitter.com/mickey2449)
-
 <img src="rdt.png" alt="Reddit logo" width="14.5" height="14.5">&nbsp;&nbsp;[u/mickoissicko](https://www.reddit.com/user/mickoissicko)
 
-[oliversvensson](https://open.spotify.com/user/31hktpmjuod3bxq7ixg7vat5tuci)
+<img src="spotify.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[oliversvensson](https://open.spotify.com/user/31hktpmjuod3bxq7ixg7vat5tuci)
 
 [mick2449](https://steamcommunity.com/id/mick2449/)
 
