@@ -39,7 +39,7 @@ I'm pretty good with networking and software -- that's why I programmed the USSR
 
 However, I'm also 'good' at these programming languages.
 
-<img src="md.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
+<img src="md1.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 <img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
