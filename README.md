@@ -21,7 +21,7 @@ Most of my socials (steam, twitch, and spotify is most likely not on my website)
 
 <img src="ttv.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mickyy_o1](https://www.twitch.tv/mickyy_o1)
 
-<img src="dc.svg" alt="dc Logo" width="14.5" height="14.5">&nbsp;&nbsp;[mick#7073](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
+<img src="dc.svg" alt="dc Logo" width="14.5" height="14.5">&nbsp;&nbsp;[discord server](https://discord.gg/Z8UVcEb65u))
 
 ## projects I'm working on
 
