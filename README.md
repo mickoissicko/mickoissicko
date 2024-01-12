@@ -48,7 +48,7 @@ However, I'm also 'good' at these programming languages.
 
 <img src="batch.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Batch](https://en.wikipedia.org/wiki/Batch_file)
 
-<img src="pss.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)#Features)
+<img src="bash.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)#Features)
 
 I'm currently learning Elixir and Python. My first ever language that got me into programming was Windows Batch (very funny).
 
