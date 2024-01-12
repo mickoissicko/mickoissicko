@@ -15,6 +15,6 @@ My socials (also on my website):
 
 <img src="spotify.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[oliversvensson](https://open.spotify.com/user/31hktpmjuod3bxq7ixg7vat5tuci)
 
-[mick2449](https://steamcommunity.com/id/mick2449/)
+<img src="steam.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mick2449](https://steamcommunity.com/id/mick2449/)
 
-[mickyy_o1](https://www.twitch.tv/mickyy_o1)
+<img src="ttv.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mickyy_o1](https://www.twitch.tv/mickyy_o1)
