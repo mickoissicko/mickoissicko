@@ -34,14 +34,6 @@ Most of my socials (steam, twitch, and spotify is most likely not on my website)
 
 [My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
 
-## projects I'm working on
-
-I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
-
-[USSR](https://github.com/mickoissicko/ussr)
-
-[My website](https://github.com/mickoissicko/website)
-
 ## areas of expertise
 I'm pretty good with networking and software -- that's why I programmed the USSR, to help run my Minecraft Server panel 24/7 using Flask.
 
@@ -59,5 +51,11 @@ However, I'm also 'good' at these programming languages.
 
 <img src="c.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
+## projects I'm working on
 
+I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
+
+[USSR](https://github.com/mickoissicko/ussr)
+
+[My website](https://github.com/mickoissicko/website)
 
