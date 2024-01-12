@@ -32,23 +32,23 @@ However, I'm also 'good' at these programming languages.
 
 <img src="markdown.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
-<img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
+<img src="batch.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Batch](https://en.wikipedia.org/wiki/Batch_file)
 
 <img src="exs.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language))
-
-<img src="js.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-
-<img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
 
 <img src="py.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 <img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
+<img src="bash.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)#Features)
+
 <img src="pss.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Powershell](https://en.wikipedia.org/wiki/PowerShell#Scripting)
 
-<img src="batch.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Batch](https://en.wikipedia.org/wiki/Batch_file)
+<img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
-<img src="bash.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)#Features)
+<img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
+
+<img src="js.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 I'm currently learning Elixir and Python. My first ever language that got me into programming was Windows Batch (very funny).
 
