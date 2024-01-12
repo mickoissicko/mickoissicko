@@ -44,7 +44,13 @@ However, I'm also 'good' at these programming languages.
 
 <img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
-I'm currently learning Elixir and Python.
+<img src="pss.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Powershell](https://en.wikipedia.org/wiki/PowerShell#Scripting)
+
+<img src="batch.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Batch](https://en.wikipedia.org/wiki/Batch_file)
+
+<img src="pss.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)#Features)
+
+I'm currently learning Elixir and Python. My first ever language that got me into programming was Windows Batch (very funny).
 
 # `repositories`
 [USSR](https://github.com/mickoissicko/ussr)
