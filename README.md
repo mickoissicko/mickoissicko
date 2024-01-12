@@ -1,4 +1,4 @@
-# mickey
+# `$ whoami`
 
 Cool guy who likes programming oddly specific QoL stuff. I think Github is a cool place to share my projects, even though nobody is going to use them.
 I'm currently working on a (grey-area) cheat for Minecraft -- the Pingspoofer, and am also maintaining the USSR project.
