@@ -5,7 +5,7 @@ I'm currently working on a (grey-area) cheat for Minecraft -- the Pingspoofer, a
 
 A website is in the works as well, and I'm planning to purchase a domain for it; something like `mick.com` or `mick.xyz`.
 
-My socials (also on my website):
+Most of my socials (steam, twitch, and spotify is most likely not on my website):
 
 <img src="yt.png" alt="YouTube Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
@@ -20,3 +20,9 @@ My socials (also on my website):
 <img src="steam.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mick2449](https://steamcommunity.com/id/mick2449/)
 
 <img src="ttv.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mickyy_o1](https://www.twitch.tv/mickyy_o1)
+
+<img src="dc.svg" alt="dc Logo" width="14.5" height="14.5">&nbsp;&nbsp;[mick#7073](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
+
+## projects I'm working on
+
+I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord @ ladvox :D
