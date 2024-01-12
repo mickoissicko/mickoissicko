@@ -28,17 +28,17 @@ I'm pretty good with networking and software -- that's why I programmed the USSR
 
 However, I'm also 'good' at these programming languages.
 
-<img src="markdown.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
+<img src="markdown.png" alt="sp logo" width="14.5" height="15.3">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 <img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
 <img src="js.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-<img src="css.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
+<img src="css.png" alt="sp logo" width="14.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
 
-<img src="py.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+<img src="py.png" alt="sp logo" width="14.5" height="15.3">&nbsp;&nbsp;[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-<img src="c.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
+<img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ## my repositories
 [USSR](https://github.com/mickoissicko/ussr)
