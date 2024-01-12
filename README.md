@@ -9,9 +9,9 @@ My socials (also on my website):
 
 <img src="yt.png" alt="YouTube Logo" width="13" height="13">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
-[BoF](https://www.youtube.com/channel/UCP1xnLQD_mpxSGc57UnZTyg)
+<img src="yt.png" alt="YouTube Logo" width="13" height="13">&nbsp;&nbsp;[Bunch of Friends](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
-[@mickey2449](https://twitter.com/mickey2449)
+<img src="tt.png" alt="YouTube Logo" width="13" height="13">&nbsp;&nbsp;[@mickey2449](https://twitter.com/mickey2449)
 
 [u/mickoissicko](https://www.reddit.com/user/mickoissicko)
 
