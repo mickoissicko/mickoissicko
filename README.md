@@ -44,6 +44,8 @@ However, I'm also 'good' at these programming languages.
 
 <img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
+I'm currently learning Elixir and Python.
+
 # `repositories`
 [USSR](https://github.com/mickoissicko/ussr)
 
@@ -55,7 +57,7 @@ However, I'm also 'good' at these programming languages.
 
 [My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
 
-## `projects I'm working on`
+# `active repositories`
 
 I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
 
