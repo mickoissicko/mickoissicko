@@ -23,23 +23,12 @@ Most of my socials (steam, twitch, and spotify is most likely not on my website)
 
 <img src="ttv.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[mickyy_o1](https://www.twitch.tv/mickyy_o1)
 
-## my repositories
-[USSR](https://github.com/mickoissicko/ussr)
-
-[Blink](https://github.com/mickoissicko/blink)
-
-[About me](https://github.com/mickoissicko/mickoissicko)
-
-[My website](https://github.com/mickoissicko/website)
-
-[My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
-
 ## areas of expertise
 I'm pretty good with networking and software -- that's why I programmed the USSR, to help run my Minecraft Server panel 24/7 using Flask.
 
 However, I'm also 'good' at these programming languages.
 
-<img src="markdown.svg" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
+<img src="markdown.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 <img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
@@ -50,6 +39,17 @@ However, I'm also 'good' at these programming languages.
 <img src="py.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 <img src="c.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
+
+## my repositories
+[USSR](https://github.com/mickoissicko/ussr)
+
+[Blink](https://github.com/mickoissicko/blink)
+
+[About me](https://github.com/mickoissicko/mickoissicko)
+
+[My website](https://github.com/mickoissicko/website)
+
+[My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
 
 ## projects I'm working on
 
