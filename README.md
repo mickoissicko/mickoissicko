@@ -63,6 +63,8 @@ I'm currently learning Elixir and Python. My first ever language that got me int
 
 * [My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
 
+* [Snake game](https://github.com/mickoissicko/snake)
+
 # `active repositories`
 
 I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
@@ -70,4 +72,6 @@ I'm currently working on these projects, actively maintaining them. If you have 
 * [USSR](https://github.com/mickoissicko/ussr)
 
 * [My website](https://github.com/mickoissicko/website)
+
+* [Snake game](https://github.com/mickoissicko/snake)
 
