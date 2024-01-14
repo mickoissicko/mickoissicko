@@ -71,7 +71,5 @@ I'm currently working on these projects, actively maintaining them. If you have 
 
 * [USSR](https://github.com/mickoissicko/ussr)
 
-* [My website](https://github.com/mickoissicko/website)
-
 * [Snake game](https://github.com/mickoissicko/snake)
 
