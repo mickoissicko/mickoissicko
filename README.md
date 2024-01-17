@@ -65,6 +65,8 @@ I'm currently learning Elixir and Python. My first ever language that got me int
 
 * [Snake game](https://github.com/mickoissicko/snake)
 
+* [Py-calculator](https://github.com/mickoissicko/pycalc)
+
 # `active repositories`
 
 I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
