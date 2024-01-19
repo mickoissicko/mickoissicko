@@ -50,7 +50,7 @@ However, I'm also 'good' at these programming languages.
 
 * <img src="js.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-I'm currently learning Elixir and Python. My first ever language that got me into programming was Windows Batch (very funny).
+I am, in no way, an 'expert' or even 'good' at any of these programming languages. I'd consider myself a mere beginner.
 
 # `repositories`
 * [USSR](https://github.com/mickoissicko/ussr)
