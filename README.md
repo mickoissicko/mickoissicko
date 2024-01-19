@@ -5,8 +5,6 @@
 Cool guy who likes programming oddly specific QoL stuff. I think Github is a cool place to share my projects, even though nobody is going to use them.
 I'm currently working on a (grey-area) cheat for Minecraft -- the Pingspoofer, and am also maintaining the USSR project.
 
-A website is in the works as well, and I'm planning to purchase a domain for it; something like `mick.com` or `mick.xyz`.
-
 Most of my socials (steam, twitch, and spotify is most likely not on my website):
 
 * <img src="yt.png" alt="YouTube Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
