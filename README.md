@@ -67,6 +67,8 @@ I'm currently learning Elixir and Python. My first ever language that got me int
 
 * [Py-calculator](https://github.com/mickoissicko/pycalc)
 
+* [Funnytools](https://github.com/mickoissicko/funnytools)
+
 # `active repositories`
 
 I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
