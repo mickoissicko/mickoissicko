@@ -59,8 +59,6 @@ I am, in no way, an 'expert' or even 'good' at any of these programming language
 
 * [NGROK Senpai](https://github.com/mickoissicko/ngroksenpai)
 
-* [My website](https://github.com/mickoissicko/website)
-
 * [My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
 
 * [Snake game](https://github.com/mickoissicko/snake)
