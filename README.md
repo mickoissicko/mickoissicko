@@ -5,6 +5,10 @@
 Cool guy who likes programming oddly specific QoL stuff. I think Github is a cool place to share my projects, even though nobody is going to use them.
 I'm currently working on a (grey-area) cheat for Minecraft -- the Pingspoofer, and am also maintaining the USSR project.
 
+## My website
+
+I have my own website! Here's [my website](https://mick.gdn)!
+
 Most of my socials:
 
 * <img src="yt.png" alt="YouTube Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
@@ -59,27 +63,7 @@ I am, in no way, an 'expert' or even 'good' at any of these programming language
 
 * [NGROK Senpai](https://github.com/mickoissicko/ngroksenpai)
 
-* [My Github website](https://github.com/mickoissicko/mickoissicko.github.io)
-
-* [Snake game](https://github.com/mickoissicko/snake)
-
-* [Py-calculator](https://github.com/mickoissicko/pycalc)
-
-* [Funnytools](https://github.com/mickoissicko/funnytools)
-
-* [Extreme-randomiser](https://github.com/mickoissicko/xtremerandomiser)
+* [My website](https://github.com/mickoissicko/mickoissicko.github.io)
 
 * [Pingspoofer](https://github.com/mickoissicko/pingspoofer)
 
-
-# `active repositories`
-
-I'm currently working on these projects, actively maintaining them. If you have a suggestion, please DM me on Discord; my name is ladvox.
-
-* [USSR](https://github.com/mickoissicko/ussr)
-
-* [Snake game](https://github.com/mickoissicko/snake)
-
-* [Extreme-randomiser](https://github.com/mickoissicko/xtremerandomiser)
-
-* [Pingspoofer](https://github.com/mickoissicko/pingspoofer)
