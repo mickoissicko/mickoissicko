@@ -4,11 +4,9 @@
 
 Cool guy who likes programming oddly specific QoL stuff. I think Github is a cool place to share my projects, even though nobody is going to use them.
 
-## My website
+I also have [a website.](https://mick.gdn) Feel free to visit!
 
-[Mick's space](https://mick.gdn)
-
-## Socials
+# `socials`
 
 * <img src="yt.png" alt="YouTube Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
