@@ -7,9 +7,9 @@ I'm currently working on a (grey-area) cheat for Minecraft -- the Pingspoofer, a
 
 ## My website
 
-I have my own website! Here's [my website](https://mick.gdn)!
+[Mick's space](https://mick.gdn)
 
-Most of my socials:
+## Socials
 
 * <img src="yt.png" alt="YouTube Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
