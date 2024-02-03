@@ -52,7 +52,7 @@ However, I'm also 'good' at these programming languages.
 I am, in no way, an 'expert' or even 'good' at any of these programming languages. I'd consider myself a mere beginner.
 
 # `repositories`
-* [hello.sh](https://github.com/mickoissicko/hello.sh)
+* [Hello.sh](https://github.com/mickoissicko/hello.sh)
 
 * [USSR](https://github.com/mickoissicko/ussr)
 
