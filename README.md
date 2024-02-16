@@ -65,5 +65,3 @@ I am, in no way, an 'expert' or even 'good' at any of these programming language
 * [My website](https://github.com/mickoissicko/mickoissicko.github.io)
 
 * [Pingspoofer](https://github.com/mickoissicko/pingspoofer)
-
-* [All about Mix](https://github.com/mickoissicko/mux)
