@@ -35,7 +35,7 @@ However, I'm also 'good' at these programming languages.
 
 * <img src="py.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-* <img src="cpp.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* <img src="cpp.png" alt="sp logo" width="14.5" height="15.3">&nbsp;&nbsp;[C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 * <img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
@@ -44,10 +44,6 @@ However, I'm also 'good' at these programming languages.
 * <img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
 * <img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
-
-* <img src="js.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-
-I am, in no way, an 'expert' or even 'good' at any of these programming languages. I'd consider myself a mere beginner.
 
 # `repositories`
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
