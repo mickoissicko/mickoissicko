@@ -33,15 +33,13 @@ However, I'm also 'good' at these programming languages.
 
 * <img src="batch.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Batch](https://en.wikipedia.org/wiki/Batch_file)
 
-* <img src="exs.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language))
-
 * <img src="py.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+* <img src="cpp.png" alt="sp logo" width="15.5" height="14.5">&nbsp;&nbsp;[C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 * <img src="c.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[C](https://en.wikipedia.org/wiki/C_(programming_language))
 
 * <img src="bash.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)#Features)
-
-* <img src="pss.png" alt="sp logo" width="14.5" height="15.34">&nbsp;&nbsp;[Powershell](https://en.wikipedia.org/wiki/PowerShell#Scripting)
 
 * <img src="htm.png" alt="sp logo" width="14.5" height="14.5">&nbsp;&nbsp;[HTML](https://en.wikipedia.org/wiki/HTML)
 
