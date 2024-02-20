@@ -48,6 +48,8 @@ However, I'm also 'good' at these programming languages.
 # `repositories`
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
 
+* [Panik!!](https://github.com/mickoissicko/panik)
+
 * [USSR](https://github.com/mickoissicko/ussr)
 
 * [Blink](https://github.com/mickoissicko/blink)
