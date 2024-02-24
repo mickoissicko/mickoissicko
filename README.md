@@ -46,11 +46,16 @@ However, I'm also 'good' at these programming languages.
 * <img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
 
 # `repositories`
-* [Hello.sh](https://github.com/mickoissicko/hello.sh)
-
-* [Panik!!](https://github.com/mickoissicko/panik)
 
 * [USSR](https://github.com/mickoissicko/ussr)
+
+* [Mixlang](https://github.com/mickoissicko/mix)
+
+* [Hello.sh](https://github.com/mickoissicko/hello.sh)
+
+* [Colour licker](https://github.com/mickoissicko/colourlicker)
+
+* [Panik!!](https://github.com/mickoissicko/panik)
 
 * [Blink](https://github.com/mickoissicko/blink)
 
@@ -61,5 +66,3 @@ However, I'm also 'good' at these programming languages.
 * [My website](https://github.com/mickoissicko/mickoissicko.github.io)
 
 * [Pingspoofer](https://github.com/mickoissicko/pingspoofer)
-
-* [Mixlang](https://github.com/mickoissicko/mix)
