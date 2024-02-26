@@ -44,6 +44,8 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 # `repositories`
 
+* [Rainbow](https://github.com/mickoissicko/rainbow)
+
 * [USSR](https://github.com/mickoissicko/ussr)
 
 * [Mixlang](https://github.com/mickoissicko/mix)
