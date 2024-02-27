@@ -56,12 +56,8 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * [Panik!!](https://github.com/mickoissicko/panik)
 
-* [Blink](https://github.com/mickoissicko/blink)
-
 * [About me](https://github.com/mickoissicko/mickoissicko)
 
 * [NGROK Senpai](https://github.com/mickoissicko/ngroksenpai)
 
 * [My website](https://github.com/mickoissicko/mickoissicko.github.io)
-
-* [Pingspoofer](https://github.com/mickoissicko/pingspoofer)
