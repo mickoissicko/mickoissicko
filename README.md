@@ -48,7 +48,7 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * [USSR](https://github.com/mickoissicko/ussr)
 
-* [USSR](https://github.com/mickoissicko/githelper)
+* [Git Helper](https://github.com/mickoissicko/githelper)
 
 * [Rainbow](https://github.com/mickoissicko/rainbow)
 
