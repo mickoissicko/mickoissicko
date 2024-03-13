@@ -44,15 +44,19 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 # `repositories`
 
-* [Mix Messaging Server](https://github.com/mickoissicko/mixmsg)
+* [Bake](https://github.com/mickoissicko/bake)
 
 * [USSR](https://github.com/mickoissicko/ussr)
+
+* [USSR](https://github.com/mickoissicko/githelper)
 
 * [Rainbow](https://github.com/mickoissicko/rainbow)
 
 * [Mixlang](https://github.com/mickoissicko/mix)
 
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
+
+* [Mix Messaging Server](https://github.com/mickoissicko/mixmsg)
 
 * [Colour licker](https://github.com/mickoissicko/colourlicker)
 
