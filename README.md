@@ -44,11 +44,11 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 # `repositories`
 
+* [Git Helper](https://github.com/mickoissicko/githelper)
+
 * [Bake](https://github.com/mickoissicko/bake)
 
 * [USSR](https://github.com/mickoissicko/ussr)
-
-* [Git Helper](https://github.com/mickoissicko/githelper)
 
 * [Rainbow](https://github.com/mickoissicko/rainbow)
 
