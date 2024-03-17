@@ -46,6 +46,8 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * [Git Helper](https://github.com/mickoissicko/githelper)
 
+* [Panik!!](https://github.com/mickoissicko/panik)
+
 * [USSR](https://github.com/mickoissicko/ussr)
 
 * [Rainbow](https://github.com/mickoissicko/rainbow)
@@ -59,8 +61,6 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 * [Colour licker](https://github.com/mickoissicko/colourlicker)
 
 * [Bake](https://github.com/mickoissicko/bake)
-
-* [Panik!!](https://github.com/mickoissicko/panik)
 
 * [About me](https://github.com/mickoissicko/mickoissicko)
 
