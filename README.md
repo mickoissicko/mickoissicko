@@ -58,6 +58,6 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * [My website](https://github.com/mickoissicko/mickoissicko.github.io)
 
-* [Panik!!](https://github.com/mickoissicko/panik)
+* [MixMGR](https://github.com/mickoissicko/mixmgr)
 
 * [Bake](https://github.com/mickoissicko/bake)
