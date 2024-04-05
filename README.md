@@ -63,6 +63,10 @@ And yes, I counted all the files (by hand...).
 
 * [My website](https://github.com/mickoissicko/mickoissicko.github.io)
 
+* [Test](https://github.com/mickoissicko/test)
+
 * [MixMGR](https://github.com/mickoissicko/mixmgr)
 
 * [Bake](https://github.com/mickoissicko/bake)
+
+* [Rauth](https://github.com/mickoissicko/rauth)
