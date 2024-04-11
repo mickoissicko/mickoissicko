@@ -53,13 +53,17 @@ And yes, I counted all the files (by hand...).
 
 * [USSR](https://github.com/mickoissicko/ussr)
 
-* [Rainbow](https://github.com/mickoissicko/rainbow)
+* [Backr](https://github.com/mickoissicko/backr)
 
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
+
+* [Universal Calculator](https://github.com/mickoissicko/unicalc)
 
 * [About me](https://github.com/mickoissicko/mickoissicko)
 
 * [NGROK Senpai](https://github.com/mickoissicko/ngroksenpai)
+
+* [Rainbow](https://github.com/mickoissicko/rainbow)
 
 * [My website](https://github.com/mickoissicko/mickoissicko.github.io)
 
