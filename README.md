@@ -53,6 +53,8 @@ And yes, I counted all the files (by hand...).
 
 * [USSR](https://github.com/mickoissicko/ussr)
 
+* [Low-orbit ION Death-ray](https://github.com/mickoissicko/killswitch)
+
 * [Backr](https://github.com/mickoissicko/backr)
 
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
