@@ -55,6 +55,8 @@ And yes, I counted all the files (by hand...).
 
 * [Low-orbit ION Death-ray](https://github.com/mickoissicko/killswitch)
 
+* [Get-home (C lib)](https://github.com/mickoissicko/gethome)
+
 * [Backr](https://github.com/mickoissicko/backr)
 
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
