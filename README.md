@@ -61,9 +61,7 @@ And yes, I counted all the files (by hand...).
 
 * [Hello.sh](https://github.com/mickoissicko/hello.sh)
 
-* [Universal Calculator](https://github.com/mickoissicko/unicalc)
-
-* [About me](https://github.com/mickoissicko/mickoissicko)
+* [Panik!!](https://github.com/mickoissicko/panik)
 
 * [NGROK Senpai](https://github.com/mickoissicko/ngroksenpai)
 
