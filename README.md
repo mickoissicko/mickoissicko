@@ -40,11 +40,6 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * <img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
 
-# funny fact
-If all the code of my repositories is added together, the resulting sum is:
-- 6,776
-And yes, I counted all the files (by hand...).
-
 # `repositories`
 
 * [Git Helper](https://github.com/mickoissicko/githelper)
