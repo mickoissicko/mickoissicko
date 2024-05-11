@@ -10,8 +10,6 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * <img src="yt.png" alt="YouTube Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
 
-* <img src="yt.png" alt="YouTube Logo2" width="14.5" height="14.5">&nbsp;&nbsp;[Bunch of Friends](https://www.youtube.com/channel/UCRuBals0-y1L6EOfu5Xw5iw)
-
 * <img src="dc.svg" alt="dc Logo" width="14.5" height="14.5">&nbsp;&nbsp;[ladvox official](https://discord.gg/Z8UVcEb65u)
 
 * <img src="rdt.png" alt="Reddit logo" width="14.5" height="14.5">&nbsp;&nbsp;[u/mickoissicko](https://www.reddit.com/user/mickoissicko)
