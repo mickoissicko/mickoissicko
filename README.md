@@ -40,28 +40,3 @@ I also have [a website.](https://mick.gdn) Feel free to visit!
 
 * <img src="css.png" alt="sp logo" width="15.5" height="15.3">&nbsp;&nbsp;[CSS](https://en.wikipedia.org/wiki/CSS)
 
-# `repositories`
-
-* [Git Helper](https://github.com/mickoissicko/githelper)
-
-* [USSR](https://github.com/mickoissicko/ussr)
-
-* [Low-orbit ION Death-ray](https://github.com/mickoissicko/killswitch)
-
-* [Get-home (C lib)](https://github.com/mickoissicko/gethome)
-
-* [Backr](https://github.com/mickoissicko/backr)
-
-* [Hello.sh](https://github.com/mickoissicko/hello.sh)
-
-* [Panik!!](https://github.com/mickoissicko/panik)
-
-* [NGROK Senpai](https://github.com/mickoissicko/ngroksenpai)
-
-* [Rainbow](https://github.com/mickoissicko/rainbow)
-
-* [My website](https://github.com/mickoissicko/mickoissicko.github.io)
-
-* [MixMGR](https://github.com/mickoissicko/mixmgr)
-
-* [Bake](https://github.com/mickoissicko/bake)
