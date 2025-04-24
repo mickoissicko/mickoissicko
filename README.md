@@ -1,8 +1,7 @@
 # `whoami`
 
 ## Hi, I'm Mickey!
-
-Cool guy who likes programming oddly specific QoL stuff. I think Github is a cool place to share my projects, even though nobody is going to use them.
+I program random things from time to time. Most of my projects are oddly specific QoL stuff.
 
 I also have [a website.](https://mick.gdn) Feel free to visit!
 
